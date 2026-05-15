@@ -809,10 +809,10 @@ TEMPLATE_WIZARD = r'''
                     <div class="hero-grid">
                         <div class="hero-card">
                             <span class="hero-pill">PROJETO: DANÇANDO NA PRAÇA</span>
-                            <h1 class="hero-title">AULÃO DE DANÇA, ESPECIAL DIA DAS MÃES!</h1>
+                            <h1 class="hero-title">AULÃO DE DANÇA!</h1>
                             <p class="hero-subtitle">
                                 Evento Gratuito:<br>
-                                Aulão de todos os ritmos!<br>
+                                Aulão de samba no pé com - Ana Luiza<br>
                                 📍Praça Jerusalém, Jardim Guanabara, Rio de Janeiro - RJ, 21940-460
                             </p>
                             <div class="hero-highlights">
